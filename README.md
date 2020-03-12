@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Barnyar Pages
 
 You can use the [editor on GitHub](https://github.com/mgyannainglin/tech.barnyar.info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
