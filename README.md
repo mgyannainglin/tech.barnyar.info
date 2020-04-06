@@ -1,4 +1,4 @@
 Welcome from "Barnyar info"
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/logo1.png)
+Hello : ![Alt Text](url)
